@@ -5,5 +5,5 @@ public class StaticVariables {
     static String inPathString;
     static String firstOutPathString ;
     static String secondOutPathString ;
-    String test;
+
 }
